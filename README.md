@@ -6,6 +6,7 @@
 ### Scrapbook  
 * Retrieval-Augmented Generation (RAG)  
     * Basic retrieval from vector database | [Code](RAG/basic_RAG/basic_retrieval.ipynb)
+    * Question answering using RAG with Ollama | [Code](RAG/basic_RAG/basic_RAG.ipynb)
 
 * Generative Adversarial Networks (GAN)  
     * GAN on 2D data | [Code](GANs/GAN_on_2D.ipynb)  
