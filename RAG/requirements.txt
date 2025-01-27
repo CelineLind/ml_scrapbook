@@ -1,2 +1,4 @@
 transformers==4.29.2
 chromadb
+langchain
+langchain_community
