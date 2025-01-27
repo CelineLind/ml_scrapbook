@@ -1,11 +1,11 @@
 # Machine Learning Scrapbook  
 
 ### Tutorials
-* CNN for Image Classification | [Read Tutorial](https://mlscrapbook.notion.site/Simple-Image-Classification-CNN-75f93ce38538498eb42287bf853a98fe) | [Code](tutorials/simple_cnn/cnn.ipynb) |
+* CNN for Image Classification | [Read Tutorial](https://mlscrapbook.notion.site/Simple-Image-Classification-CNN-75f93ce38538498eb42287bf853a98fe) | [Code](tutorials/simple_cnn/cnn.ipynb)
 
 ### Scrapbook  
 * Retrieval-Augmented Generation (RAG)  
-    * Basic retrieval from vector database | [Code](RAG/basic_RAG/basic_retrieval.ipynb) |
+    * Basic retrieval from vector database | [Code](RAG/basic_RAG/basic_retrieval.ipynb)
 
 * Generative Adversarial Networks (GAN)  
     * GAN on 2D data | [Code](GANs/GAN_on_2D.ipynb)  
