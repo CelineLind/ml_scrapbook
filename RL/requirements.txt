@@ -1,0 +1,6 @@
+gymnasium[atari]
+gymnasium[toy-text] # installs pygame
+autorom[accept-rom-license]
+numpy
+matplotlib
+moviepy
