@@ -4,6 +4,11 @@
 * CNN for Image Classification | [Read Tutorial](https://mlscrapbook.notion.site/Simple-Image-Classification-CNN-75f93ce38538498eb42287bf853a98fe) | [Code](tutorials/simple_cnn/cnn.ipynb)
 
 ### Scrapbook  
+* Supervised Learning
+    * Credit risk assessment with logistic regression | [Code](Supervised_Learning/logistic_regression.ipynb)
+    * Multi-linear regression | [Code](Supervised_Learning/multi_linear_regression.ipynb)
+    * Linear regression | [Code](Supervised_Learning/linear_regression.ipynb)
+
 * Retrieval-Augmented Generation (RAG)  
     * Basic retrieval from vector database | [Code](RAG/basic_RAG/basic_retrieval.ipynb)
     * Local question answering using an LLM with Ollama and RAG | [Code](RAG/basic_RAG/basic_RAG.ipynb)
