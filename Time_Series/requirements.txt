@@ -4,3 +4,4 @@ kagglehub
 pandas
 numpy<2.0
 matplotlib
+seaborn
